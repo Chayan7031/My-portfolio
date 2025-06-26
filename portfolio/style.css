@@ -40,3 +40,19 @@ body{
     transition: .3s ;
 }
 
+.navbar a:hover{
+    color: #0ef;
+}
+
+.home{
+    position: relative;
+    width: 100%;
+    justify-content: center;
+    height: 100vh;
+    background: rgb(6, 52, 55);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    padding: 70px 10% 0;
+}
